@@ -1,0 +1,20 @@
+Arrange as a series of panels vertically such that one panel and one item is selected at any one time
+
+Risk Enquiry
+	Dashboard
+	Event Risk
+	Country Risk
+
+Data upload
+	Events
+	Positions
+	Market data
+
+Data Sets
+	My data set 1
+	My data set 2
+	Create New
+	
+Scenarios
+	My scenario 1
+	Create New

@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "results": [
+        {
+            "securityId": "B19GM43",
+            "eventType": "DVOP",
+            "grossDividendCurrency": "EUR",
+            "grossDividendRate": "2850",
+            "exchangeRate": "0.87",
+            "totalPosition": 800000000
+        },
+        {
+            "securityId": "B19GM44",
+            "eventType": "DVOP",
+            "grossDividendCurrency": "EUR",
+            "grossDividendRate": "2850",
+            "exchangeRate": "0.87",
+            "totalPosition": 1280000
+        },
+        {
+            "securityId": "143253",
+            "eventType": "DRIP",
+            "grossDividendCurrency": "GBP",
+            "grossDividendRate": "86",
+            "exchangeRate": "1",
+            "totalPosition": 250000
+        },
+        {
+            "securityId": "B19GM45",
+            "eventType": "DRIP",
+            "grossDividendCurrency": "USD",
+            "grossDividendRate": "2820",
+            "exchangeRate": "1.15",
+            "totalPosition": 8500000
+        },
+        {
+            "securityId": "B19GM48",
+            "eventType": "BMAN",
+            "grossDividendCurrency": "CAD",
+            "grossDividendRate": "12",
+            "exchangeRate": "2.23",
+            "totalPosition": 1000
+        },
+        {
+            "securityId": "BENNING1",
+            "eventType": "FKUP",
+            "grossDividendCurrency": "NOB",
+            "grossDividendRate": "101",
+            "exchangeRate": "4.5444",
+            "totalPosition": 2504440
+        }
+    ]
+}

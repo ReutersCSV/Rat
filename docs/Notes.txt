@@ -1,0 +1,16 @@
+Screen layout
+Login detection and form
+History viewer
+Grid REST integration with writable store
+Tabs
+
+Upload Data
+ -> 1,2,3 types
+ -> Launch file dialog, then render preview + commit (data editting out to begin with)
+ -> Worry about 4 eyes later
+ 
+Risk Enquiry + drill in somehow
+
+CLient configuration page
+
+Scenario Runner
